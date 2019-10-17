@@ -1,6 +1,6 @@
 **DFT Notebook**
 
-To launch a "live" web instance of MPCP.ipynb, click here: 
+To launch a "live" web instance of DFT.ipynb, click here: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgrigni/cs485f19/master?filepath=DFT.ipynb)
 
 You may have to wait a minute for the notebook server to start.
